@@ -9994,10 +9994,5 @@ a.text-dark:focus, a.text-dark:hover {
     .table-dark tbody + tbody, .table-dark td, .table-dark th, .table-dark thead th {
         border-color: #dee2e6
     }
-
-    .table .thead-dark th {
-        color: inherit;
-        border-color: #dee2e6
-    }
 }
 /*# sourceMappingURL=bootstrap.min.css.map */
