@@ -24,6 +24,7 @@
 	<li><strong title="cleanimg task"><em>cleanimg</em></strong>: Clean all compressed images</li>
 	<li><strong title="styles, scripts, images, assets tasks"><em>styles, scripts, images, assets</em></strong>: build assets (css, js, images or all)</li>
 	<li><strong title="rsync task"><em>rsync</em></strong>: project deployment via <strong>RSYNC</strong></li>
+	<li><strong title="purge task"><em>purge</em></strong>: create bootstrap file with styles used in project</li>
 </ul>
 
 <h2>Basic rules</h2>
